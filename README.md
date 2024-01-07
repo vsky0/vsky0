@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @vsky0
-- 👀 I’m interested in Software Development, Artificial Intelligence and Machine Learning
-- 🌱 I’m currently learning MySQL, Java, AI.
-- 💞️ I’m looking to collaborate on AI and ML projects.
+- 👋 Hi, I’m Velpula Sai Kiran Yadav
 - 📫 How to reach me saikiranyadavvelpula.001@gmail.com
 
 <!---
